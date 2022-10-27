@@ -2,10 +2,15 @@
   "name": "pokeapi",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://kero3333.github.io/react-pokeApi-react-Textarea/",
   "scripts": {
     "start": "parcel index.html",
     "build": "rm -rf dist && parcel build index.html",
     "pub": "gh-pages -d dist"
+  },
+  "staticFiles": {
+    "staticPath": "static",
+    "watcherGlob": "**"
   },
   "keywords": [],
   "author": "",
