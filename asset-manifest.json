@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-pokeApi-react-Textarea/static/css/main.ba77c765.css",
+    "main.js": "/react-pokeApi-react-Textarea/static/js/main.704d5b96.js",
+    "index.html": "/react-pokeApi-react-Textarea/index.html",
+    "main.ba77c765.css.map": "/react-pokeApi-react-Textarea/static/css/main.ba77c765.css.map",
+    "main.704d5b96.js.map": "/react-pokeApi-react-Textarea/static/js/main.704d5b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba77c765.css",
+    "static/js/main.704d5b96.js"
+  ]
+}
