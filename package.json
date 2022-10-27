@@ -2,9 +2,10 @@
   "name": "pokeapi",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "rm -rf dist && parcel build index.html",
+    "pub": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +16,7 @@
     "react-router-dom": "^6.4.2"
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "parcel": "^2.7.0",
     "process": "^0.11.10"
   }
